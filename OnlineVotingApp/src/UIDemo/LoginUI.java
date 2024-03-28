@@ -48,7 +48,7 @@ public class LoginUI extends javax.swing.JFrame {
             }
         });
 
-        jButton2.setText("Regigter Now");
+        jButton2.setText("Register Now");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton2ActionPerformed(evt);

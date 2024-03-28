@@ -36,7 +36,7 @@ public class RegigterUI extends javax.swing.JFrame {
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setText("Regigter");
+        jLabel1.setText("Register");
 
         jLabel2.setText("User Name");
 
